@@ -8,7 +8,7 @@ class Upload extends Component {
 
   uploadWidget = () => {
     window.cloudinary.openUploadWidget(
-      { cloud_name: 'unicodeveloper',
+      { cloud_name: 'jeromehardaway',
         upload_preset: 'b9ej8dr5',
         tags: ['miniflix']
       },
